@@ -1,3 +1,10 @@
 Some networks
 
 US air transportation network
+
+
+The chosen network was taken from http://vlado.fmf.uni-lj.si/pub/networks/data/bio/Yeast/Yeast.htm, and it represents a protein-protein interaction network, where nodes are proteins and edges represent interactions among them. <br>
+
+https://www.sciencedirect.com/topics/computer-science/preferential-attachment
+
+ESTIMATION OF THE EXPONENT OF THE POWERLAW THROUGH LINEAR REGRESSION
